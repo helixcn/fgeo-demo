@@ -1,6 +1,9 @@
 ---
 title: "Get started with fgeo"
+output: github_document
 ---
+
+This is an R Markdown document (<http://rmarkdown.rstudio.com>). When you click the the green arrow on the top-right of each code chunk, R runs that code.
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
@@ -10,10 +13,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-
-This is an R Markdown document (<http://rmarkdown.rstudio.com>). When you click the the green arrow on the top-right of each code chunk, R runs that code.
-
----
 
 This article shows some of the key features of __fgeo__ applied to an exploratory data analysis. For a deeper and general approach to exploratory data analysis see [this book section](http://r4ds.had.co.nz/exploratory-data-analysis.html). A version adapted for ForestGEO is available [here](https://forestgeo.github.io/fgeo/articles/siteonly/eda.html).
 

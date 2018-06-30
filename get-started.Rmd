@@ -1,5 +1,5 @@
 ---
-title: "Get started"
+title: "Get started with fgeo"
 ---
 
 ```{r setup, include = FALSE}
@@ -11,9 +11,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the the green arrow on the top-right of each code chunk, R runs that code.
+This is an R Markdown document (<http://rmarkdown.rstudio.com>). When you click the the green arrow on the top-right of each code chunk, R runs that code.
 
 ---
 
